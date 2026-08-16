@@ -1,6 +1,5 @@
 # MyShowz-Movie-ticket-booking-website
-It is a movie ticket booking website with front-end only. I designed it as a part of my HCI (human-computer interaction) project.
-It is available in both dark & light mode.
+MYSHOWZ is a frontend movie ticket booking website developed using HTML, CSS, JavaScript, and Bootstrap. The project focuses on creating an interactive and user-friendly movie booking experience, with features such as movie browsing, seat selection, ticket booking, sign-in, and dark/light mode.
 
 ## Demo
 http://myshowz.infinityfreeapp.com/
